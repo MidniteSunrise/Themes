@@ -12,18 +12,18 @@ All instructions can be found at [minimal-mistakes.xyz](https://minimal-mistakes
 
 Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://minimal-mistakes.xyz/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---           | ---             | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://minimal-mistakes.xyz/static/img/color-boxes/background.png)
-Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://minimal-mistakes.xyz/static/img/color-boxes/current_line.png)
-Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://minimal-mistakes.xyz/static/img/color-boxes/selection.png)
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://minimal-mistakes.xyz/static/img/color-boxes/foreground.png)
-Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![Comment Color](https://minimal-mistakes.xyz/static/img/color-boxes/comment.png)
-Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  | ![Cyan Color](https://minimal-mistakes.xyz/static/img/color-boxes/cyan.png)
-Green        | `#50fa7b` | `80 250 123`  | `135° 94% 65%`  | ![Green Color](https://minimal-mistakes.xyz/static/img/color-boxes/green.png)
-Orange       | `#ffb86c` | `255 184 108` | `31° 100% 71%`  | ![Orange Color](https://minimal-mistakes.xyz/static/img/color-boxes/orange.png)
-Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://minimal-mistakes.xyz/static/img/color-boxes/pink.png)
-Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://minimal-mistakes.xyz/static/img/color-boxes/purple.png)
-Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://minimal-mistakes.xyz/static/img/color-boxes/red.png)
-Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://minimal-mistakes.xyz/static/img/color-boxes/yellow.png)
+Background   | `#2e3440` | `46 52 52`    | `180° 12% 20%`  | ![Background Color](https://minimal-mistakes.xyz/static/img/color-boxes/background.png)
+Current Line | `#434c5e` | `67 76 94`    | `220° 29% 37%`  | ![Current Line Color](https://minimal-mistakes.xyz/static/img/color-boxes/current_line.png)
+Selection    | `#434c5e` | `67 76 94`    | `220° 29% 37%`  | ![Selection Color](https://minimal-mistakes.xyz/static/img/color-boxes/selection.png)
+Foreground   | `#e5e9f0` | `229 233 240` | `218° 5% 94%`   | ![Foreground Color](https://minimal-mistakes.xyz/static/img/color-boxes/foreground.png)
+Comment      | `#81a1c1` | `129 161 193` | `210° 33% 76%`  | ![Comment Color](https://minimal-mistakes.xyz/static/img/color-boxes/comment.png)
+Cyan         | `#88c0d0` | `139 233 253` | `191° 97% 77%`  | ![Cyan Color](https://minimal-mistakes.xyz/static/img/color-boxes/cyan.png)
+Green        | `#a3be8c` | `80 250 123`  | `135° 94% 65%`  | ![Green Color](https://minimal-mistakes.xyz/static/img/color-boxes/green.png)
+Orange       | `#d08770` | `255 184 108` | `31° 100% 71%`  | ![Orange Color](https://minimal-mistakes.xyz/static/img/color-boxes/orange.png)
+Pink         | `#b48ead` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://minimal-mistakes.xyz/static/img/color-boxes/pink.png)
+Purple       | `#765eac` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://minimal-mistakes.xyz/static/img/color-boxes/purple.png)
+Red          | `#bf616a` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://minimal-mistakes.xyz/static/img/color-boxes/red.png)
+Yellow       | `#ebcb8b` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://minimal-mistakes.xyz/static/img/color-boxes/yellow.png)
 
 For more details about how to apply these different colors to represent different code symbols, please see the [Minimal-Mistakes Specification](https://minimal-mistakes.xyz/specs).
 
