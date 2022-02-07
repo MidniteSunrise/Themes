@@ -1,0 +1,3 @@
+[submodule "themes/visual-studio-code"]
+	path = themes/visual-studio-code
+	url = git@github.com:Minimal-Mistakes/visual-studio-code.git
