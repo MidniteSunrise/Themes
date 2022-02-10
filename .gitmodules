@@ -4,3 +4,6 @@
 [submodule "themes/kitty"]
 	path = themes/kitty
 	url = git@github.com:Minimal-Mistakes/kitty.git
+[submodule "themes/vim"]
+	path = themes/vim
+	url = git@github.com:Minimal-Mistakes/vim.git
