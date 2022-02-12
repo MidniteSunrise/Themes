@@ -1,9 +1,12 @@
-[submodule "themes/visual-studio-code"]
-	path = themes/visual-studio-code
-	url = git@github.com:Minimal-Mistakes/visual-studio-code.git
+[submodule "themes/atom"]
+	path = themes/atom
+	url = git@github.com:Minimal-Mistakes/atom.git
 [submodule "themes/kitty"]
 	path = themes/kitty
 	url = git@github.com:Minimal-Mistakes/kitty.git
+[submodule "themes/visual-studio-code"]
+	path = themes/visual-studio-code
+	url = git@github.com:Minimal-Mistakes/visual-studio-code.git
 [submodule "themes/vim"]
 	path = themes/vim
 	url = git@github.com:Minimal-Mistakes/vim.git
