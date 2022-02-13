@@ -4,6 +4,9 @@
 [submodule "themes/atom"]
 	path = themes/atom
 	url = git@github.com:Minimal-Mistakes/atom.git
+[submodule "themes/emacs"]
+	path = themes/emacs
+	url = git@github.com:Minimal-Mistakes/emacs.git
 [submodule "themes/kitty"]
 	path = themes/kitty
 	url = git@github.com:Minimal-Mistakes/kitty.git
