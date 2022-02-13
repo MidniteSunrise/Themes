@@ -1,3 +1,6 @@
+[submodule "themes/alacritty"]
+	path = themes/alacritty
+	url = git@github.com:Minimal-Mistakes/alacritty.git
 [submodule "themes/atom"]
 	path = themes/atom
 	url = git@github.com:Minimal-Mistakes/atom.git
