@@ -1,12 +1,12 @@
 # Minimal-Mistakes Theme
 
-![Minimal-Mistakes](https://minimal-mistakes.xyz/static/img/minimal-mistakes.gif)
+![Minimal-Mistakes](https://minimalmistakes.org/static/img/minimal-mistakes.gif)
 
 > A dark theme for [Atom](http://atom.io/), [Emacs](https://www.gnu.org/software/emacs/), [JetBrains](https://www.jetbrains.com/), [Sublime Text](http://www.sublimetext.com/3), [Vim](http://www.vim.org/), [Zsh](http://www.zsh.org/) and many more.
 
 ## Install
 
-All instructions can be found at [minimal-mistakes.xyz](https://minimal-mistakes.xyz/).
+All instructions can be found at [minimalmistakes.org](https://minimalmistakes.org/).
 
 ## FAQ
 
