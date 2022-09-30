@@ -42,4 +42,4 @@ The changelog is available on the release page in each theme's repository.
 
 ## License
 
-[GPL-TRC License](./LICENSE) © Minimal-Mistakes Theme
+[MIT License](./LICENSE) © Minimal-Mistakes Theme

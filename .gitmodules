@@ -19,6 +19,9 @@
 [submodule "themes/icons"]
 	path = themes/icons
 	url = git@github.com:Minimal-Mistakes/icons.git
+[submodule "themes/lapce"]
+	path = themes/lapce
+	url = git@github.com:Minimal-Mistakes/lapce.git
 [submodule "themes/netbeans"]
 	path = themes/netbeans
 	url = git@github.com:Minimal-Mistakes/netbeans.git
