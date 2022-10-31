@@ -2,7 +2,7 @@
 
 ![Minimal-Mistakes](https://minimalmistakes.org/static/img/minimal-mistakes.gif)
 
-> A dark theme for [Atom](http://atom.io/), [Emacs](https://www.gnu.org/software/emacs/), [JetBrains](https://www.jetbrains.com/), [Sublime Text](http://www.sublimetext.com/3), [Vim](http://www.vim.org/), [Zsh](http://www.zsh.org/) and many more.
+> A dark theme for [Atom](http://atom.io/), [Emacs](https://www.gnu.org/software/emacs/), [JetBrains](https://www.jetbrains.com/), [Sublime Text](http://www.sublimetext.com/3), [Vim](http://www.vim.org/), [Zsh](http://www.zsh.org/), [Lapce](https://lapce.dev/) and many more.
 
 ## Install
 
